@@ -17,8 +17,7 @@
 A **TECH** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://lottiefiles.com/56922-code-typing-concept" />
-
+<iframe align="right" src="https://lottiefiles.com/iframe/56922-code-typing-concept"></iframe>
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at VEC , Chennai
