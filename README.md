@@ -17,7 +17,7 @@
 A **TECH** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://assets10.lottiefiles.com/private_files/lf30_wqypnpu5.json" />
+  <img align="right" alt="GIF" src="https://lottiefiles.com/56922-code-typing-concept" />
 
 **About Me!**
 
