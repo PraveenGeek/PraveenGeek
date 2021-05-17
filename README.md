@@ -11,13 +11,14 @@
 
 
 
+
 <br />
 <br />
 
 A **TECH** ***Enthusiast*** 🚀.
  
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!---
+![56922-code-typing-concept](https://user-images.githubusercontent.com/44740191/118485898-99b7ab00-b736-11eb-9771-e15f6536f2b9.gif) ---->
 
 **About Me!**
 
